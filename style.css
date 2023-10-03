@@ -4,5 +4,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    height = 
+    height: 100vh;
+/*     to get the items on top of each other then you have to change the flex */
+    flex-direction: column
 }
